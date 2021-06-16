@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap')
 .App {
   text-align: center;
 }
@@ -35,4 +36,13 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+h2{
+  letter-spacing: 3px;
+  font-size: 2rem;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  text-shadow:2px 2px slategray;
 }
